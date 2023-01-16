@@ -10,7 +10,7 @@ Hello World,<br>🌱 I’m currently pursuing MS in Computer Science<br>💬 Ask
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-ruby-one.vercel.app/api?username=kabalac&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kabalac&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kabalac&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=kabalac&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kabalac&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
