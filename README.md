@@ -1,5 +1,5 @@
 # About Me:
-💬 Hey! Thanks for visiting my profile. A little about me, experienced Graduate Teaching Assistant with a demonstrated history of working in the higher education industry. Skilled in Neural Networks, Cryptography, Python (Programming Language), getting certain with the Quantum World, making the machine behave intelligently in complex environments with focused Security, and nevertheless Microsoft Office. Strong education professional with a Master of Science - MS focused in Computer Science from University of Dayton
+Hey! Thanks for visiting my profile. A little about me, experienced Graduate Teaching Assistant with a demonstrated history of working in the higher education industry. Skilled in Neural Networks, Cryptography, Python (Programming Language), getting certain with the Quantum World, making the machine behave intelligently in complex environments with focused Security, and nevertheless Microsoft Office. Strong education professional with a Master of Science - MS focused in Computer Science from University of Dayton
 
 
 ## 🌐 Socials:
