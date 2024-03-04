@@ -11,7 +11,9 @@ Hey! Thanks for visiting my profile. A little about me, experienced Graduate Tea
 
 ![](https://github-readme-stats-ruby-one.vercel.app/api?username=kabalac&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kabalac&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=kabalac&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![Karthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabalac)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kabalac&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
